@@ -1,0 +1,10 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+  background-color: black;
+  padding: 10px;
+  align-content: center;
+  color: rgb(8, 8, 8);
+}
