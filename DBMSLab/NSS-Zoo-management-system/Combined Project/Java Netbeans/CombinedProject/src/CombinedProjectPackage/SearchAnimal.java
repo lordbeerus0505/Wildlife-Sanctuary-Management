@@ -303,7 +303,7 @@ public class SearchAnimal extends javax.swing.JFrame {
         String dbName = "zoodb";
         String driver = "com.mysql.jdbc.Driver";
         String userName = "root";
-        String password = "abhiram";
+        String password = "";
          SearchName.setEditable(true);
          SearchGender.setEditable(true);
          AnimalIDSearch.setEditable(true);
@@ -611,7 +611,7 @@ public class SearchAnimal extends javax.swing.JFrame {
 String dbName = "zoodb";
 String driver = "com.mysql.jdbc.Driver";
 String userName = "root";
-String password = "abhiram";
+String password = "";
 
 SearchName.setEditable(true);
          SearchGender.setEditable(true);

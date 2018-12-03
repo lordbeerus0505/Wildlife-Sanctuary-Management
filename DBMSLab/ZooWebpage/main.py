@@ -14,7 +14,7 @@ app = flask.Flask(__name__,static_url_path='/static')
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="abhiram"
+  passwd=""
 )
 
 

@@ -258,7 +258,7 @@ public class AnimalInsert extends javax.swing.JFrame {
 String dbName = "zoodb";
 String driver = "com.mysql.jdbc.Driver";
 String userName = "root";
-String password = "abhiram";
+String password = "";
 
 //String a[]={""};
            
